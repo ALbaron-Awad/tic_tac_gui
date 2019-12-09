@@ -10,7 +10,7 @@ def main():
     count = 0
     root = Tk()
 
-    root.title("Tic Tac Toe !")
+    root.title("Tic Tac Toe")
     info_msg="#Game__Instruction\n" \
              "******************************************" \
              "*-This game has two player\n" \
