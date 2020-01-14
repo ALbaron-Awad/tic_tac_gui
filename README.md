@@ -1,4 +1,4 @@
-# tic_tac_gui
-tic_tac_toy in python with gui
-  simple tic_tac toy with (GUI) using Python !
+# tic_tac_toe_gui
+Tic Tac Toe in python with gui
+  simple Tic_Tac_Toe game with (GUI) using Python !
   
